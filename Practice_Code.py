@@ -6,5 +6,5 @@ for countdown in range (5,-1,-1):
 
 #Emulating Numeric Types
 import matplotlib.pyplot as plt
-plt.plot([0,1,2,3,4],[0,1,2,3,4])
+plt.plot([0,1,2,3,4],[0,1,4,9,16])
 plt.show()
