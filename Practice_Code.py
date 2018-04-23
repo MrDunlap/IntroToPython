@@ -41,3 +41,4 @@ if __name__ == '__main__':
     ax.arrow(0, 0, v2[0]/6, v2[1]/6, head_width=0.05, head_length=0.1,label=v2.__repr__(),fc='k', ec='k')
     ax.arrow(0, 0, v3[0]/6, v3[1]/6, head_width=0.05, head_length=0.1,label=v3.__repr__(), fc='k', ec='k')
     plt.show()
+    
